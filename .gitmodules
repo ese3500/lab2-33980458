@@ -1,0 +1,3 @@
+[submodule "include/print-to-serial"]
+	path = include/print-to-serial
+	url = https://github.com/upenn-embedded-courses/print-to-serial.git
